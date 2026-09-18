@@ -1,0 +1,32 @@
+push hi
+push 5
+bind
+push 5
+push name1
+swap
+bind
+let
+push name2
+push name1
+bind
+push name2
+neg
+neg
+end
+push name2
+neg
+push name1
+neg
+toString
+println
+toString
+println
+toString
+println
+toString
+println
+toString
+println
+toString
+println
+quit
